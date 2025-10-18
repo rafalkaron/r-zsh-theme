@@ -21,22 +21,16 @@ By default, r-zsh-theme displays the following after command execution:
 
 **TIP:** Disable command execution information by setting `DURATION=0`
 
-## Installation
-
-Download and apply r-zsh-theme and its dependencies.
-
-### Install dependencies
-
-Install and apply a Nerd Font for your terminal. Nerd Fonts are required to display icons used in the theme.
-
-1. Install Nerd Fonts. See [Nerd Fonts GitHub](<https://github.com/ryanoasis/nerd-fonts>).  
-   **Example:** Install Fire Code Nerd Font with `brew install --cask font-fira-code-nerd-font`
-2. Apply the installed Nerd Font for your terminal.
-
 ### Install r-zsh-theme
+Download, install, and apply r-zsh-theme and its dependencies.
 
-Download the r-zsh-theme file and apply it in `.zshrc`.
+**Prerequisites**
+1. Install Nerd Fonts. For more information, see [Nerd Fonts GitHub](<https://github.com/ryanoasis/nerd-fonts>).  
+   **Note:** Nerd Fonts are required to display icons used in the theme.
+   **Example:** Install Fire Code Nerd Font on MacOS by running `brew install --cask font-fira-code-nerd-font`
+2. In your terminal configuration, apply Nerd Fonts.
 
+**Procedure**
 1. Download r-zsh-theme by running:
 
    ```sh
