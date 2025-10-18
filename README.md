@@ -2,6 +2,8 @@
 
 Simple yet informative zsh theme. Tested on MacOS in Alacritty with Oh My Zsh installed.
 
+<img width="1047" height="313" alt="r-zsh-theme" src="https://github.com/user-attachments/assets/f7faa31d-8dbf-4e6e-b104-c3efe456d01d" />
+
 ## Features
 
 r-zsh-theme displays the following at the prompt:
@@ -27,20 +29,20 @@ Download and apply r-zsh-theme and its dependencies.
 
 Install and apply a Nerd Font for your terminal. Nerd Fonts are required to display icons used in the theme.
 
-1. Install Nerd Fonts. See [<https://github.com/ryanoasis/nerd-fonts>](Nerd Fonts GitHub).
+1. Install Nerd Fonts. See [Nerd Fonts GitHub](<https://github.com/ryanoasis/nerd-fonts>).  
    **Example:** Install Fire Code Nerd Font with `brew install --cask font-fira-code-nerd-font`
-2. Apply a Nerd Font for your terminal.
+2. Apply the installed Nerd Font for your terminal.
 
 ### Install r-zsh-theme
 
 Download the r-zsh-theme file and apply it in `.zshrc`.
 
-1. Download the theme by running:
+1. Download r-zsh-theme by running:
 
    ```sh
    curl -o ~/.oh-my-zsh/custom/themes/r.zsh-theme https://raw.githubusercontent.com/rafalkaron/r-zsh-theme/main/r.zsh-theme
    ```
 
-2. In `.zshrc`, set the theme by adding: `ZSH_THEME="r"`
-3. (optional) To disable command execution information, in `.zshrc`, add: `DURATION=0`
+2. In `.zshrc`, set the theme by adding `ZSH_THEME="r"`
+3. (optional) To disable command execution information, add `DURATION=0` in `.zshrc`.
 4. Restart your terminal or run `source ~/.zshrc`
