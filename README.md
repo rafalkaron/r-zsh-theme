@@ -1,6 +1,6 @@
 # r-zsh-theme
 
-Simple yet informative zsh theme.
+Simple yet informative zsh theme.  
 **Note:** Tested on macOS in Alacritty with Oh My Zsh installed.
 
 <img width="1047" height="313" alt="r-zsh-theme" src="https://github.com/user-attachments/assets/f7faa31d-8dbf-4e6e-b104-c3efe456d01d" />
